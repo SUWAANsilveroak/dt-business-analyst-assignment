@@ -39,7 +39,7 @@ New variants are added only when observed during daily checks.
 |---------|---------------|-----------|-------|------------------|----------------|------------|
 | Dolo 650 | 1000 | 500 | 40 | 1460 | 1440 | -20 |
 
-Tolerance is predefined.  
+Tolerance is predefined and the for better visuals i can add filter if it goes beyond 2% slab it will automatic turned into red.  
 Differences beyond tolerance trigger a review of sales entries.
 
 ---
