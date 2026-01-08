@@ -95,8 +95,10 @@ I record all errors in a simple log:
 - Error type
 - Whether it has occurred before
 
-No punishment is involved.  
+No punishment is involved. 
+
 The objective is correction, awareness, and addressing staff challenges related to the updated SOP and system.
+
 ---
 
 ## STEP 6 — Doctor Escalation (Only When Needed)
