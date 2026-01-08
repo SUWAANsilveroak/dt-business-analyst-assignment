@@ -1,6 +1,8 @@
 
 # Task 1 – Daily Clinic Inventory Micro-Audit
 
+The sections below may be detailed, but they are intentionally practical and grounded in my domain experience to keep the solution realistic and executable.
+
 ## Purpose of This Task
 
 This task simulates the role of a **Clinic Business Analyst** responsible for maintaining inventory accuracy and billing discipline in a small clinic pharmacy where:
