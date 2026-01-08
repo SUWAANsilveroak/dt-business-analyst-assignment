@@ -45,7 +45,7 @@ If I find a new variant:
 I apply **data validation** at the sales or billing entry level.
 
 What I do:
-- I use the existing *Medicine (Master Name)* list as a data validation range
+- I use the existing *Medicine (Master Name)* (If MHS Allowes) list as a data validation range
 - Billing staff can select medicine names only from this standard list
 - I share a simple SOP and a master list sorted alphabetically
 - No heavy training or practice is required
@@ -64,12 +64,11 @@ Even with data validation in place, daily stock checks are mandatory.
 
 For each high-risk medicine, I calculate:
 
-Expected Closing Stock  
-= Opening Stock + Purchases − Total Sales (after grouping)
+Expected Closing Stock  = Opening Stock + Purchases − Total Sales (after grouping)
 
 I compare expected stock with actual closing stock.
 
-If the difference is more than the allowed tolerance:
+If the difference is more than the allowed tolerance 2%:
 - I review the day’s sales entries
 - I check for missed or wrongly entered bills
 
