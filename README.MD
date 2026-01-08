@@ -63,4 +63,4 @@ A separate AI usage disclosure is included in the repository.
 
 ---
 
-Thank you for reviewing my submission.
+Thank you for reviewing my submission 😊.
