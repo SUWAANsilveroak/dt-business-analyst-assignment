@@ -52,7 +52,7 @@ What I do:
 
 Outcome:
 - Staff can enter only valid medicine names
-- Name-related human errors are eliminated
+- Name-related human errors are significantly reduced
 - Closing stock mismatches reduce significantly
 - No daily follow-up with billing staff is required
 
@@ -103,11 +103,12 @@ The objective is correction, awareness, and addressing staff challenges related 
 
 ## STEP 6 — Doctor Escalation (Only When Needed)
 
-I believe other departments should focus on their core responsibilities rather than handling miscellaneous tasks or corrections.
+The goal is to ensure doctors focus on clinical decisions, not routine operational corrections.
 
-I'll involve the doctor only if:
+I involve the doctor only if:
 - Financial impact is material
 - The same error keeps repeating despite corrections
 - Inventory mismatch affects treatment availability
 
-All routine issues are handled without disturbing the doctor.
+All routine operational issues are resolved without disturbing the doctor.
+
