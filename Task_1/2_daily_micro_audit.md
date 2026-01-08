@@ -20,9 +20,10 @@ I finalize this list once and review it monthly.
 
 ## STEP 2 — Daily Name-Variation Check (10 mins)
 
-**I have 2 Approach** 
+**I have 2 approaches.** 
 
-1st:- I will explain as per assignment suggested 
+1st:- I will explain as per assignment suggested
+
 2nd:- My approach as per my previous expirence 
 
 ### Approach 1 — As Suggested in the Assignment
